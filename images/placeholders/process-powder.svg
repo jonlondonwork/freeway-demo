@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2000" viewBox="0 0 1600 2000" role="img" aria-label="Placeholder image: S3: Powder coating: coloured frames hanging on the line, several finishes together.">
+  <rect width="1600" height="2000" fill="#efefed"/>
+  <path d="M0 0L1600 2000M1600 0L0 2000" stroke="#c9c9c5" stroke-width="2"/>
+  <rect x="1" y="1" width="1598" height="1998" fill="none" stroke="#c9c9c5" stroke-width="2"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" text-anchor="middle" fill="#6b6b66">
+    <rect x="192" y="845.8" width="1216" height="299" fill="#efefed" opacity="0.92"/>
+    <text x="800" y="921" font-size="33" letter-spacing="0.12em">PLACEHOLDER IMAGE · 4:5 · FEATURE</text>
+    <text x="800" y="1009.2" font-size="47">S3: Powder coating: coloured frames hanging</text>
+    <text x="800" y="1072.2" font-size="47">on the line, several finishes together.</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2000" viewBox="0 0 1600 2000" role="img" aria-label="Placeholder image: S9: Open Vari-Cart, one clear tray pulled out beside a double-space white metal basket. Shows the 100 mm / 200 mm mix.">
+  <rect width="1600" height="2000" fill="#e9e9e5"/>
+  <path d="M0 0L1600 2000M1600 0L0 2000" stroke="#9ca3af" stroke-width="2"/>
+  <rect x="1" y="1" width="1598" height="1998" fill="none" stroke="#9ca3af" stroke-width="2"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" text-anchor="middle" fill="#4b5563">
+    <rect x="192" y="814.8" width="1216" height="362" fill="#e9e9e5" opacity="0.92"/>
+    <text x="800" y="890" font-size="33" letter-spacing="0.12em">PLACEHOLDER IMAGE · 4:5 · FEATURE</text>
+    <text x="800" y="978.2" font-size="47">S9: Open Vari-Cart, one clear tray pulled</text>
+    <text x="800" y="1041.2" font-size="47">out beside a double-space white metal</text>
+    <text x="800" y="1104.2" font-size="47">basket. Shows the 100 mm / 200 mm mix.</text>
+  </g>
+</svg>

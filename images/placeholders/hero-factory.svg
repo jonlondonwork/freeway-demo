@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="686" viewBox="0 0 1600 686" role="img" aria-label="Placeholder image: S1: Wide shot of the Berkshire factory floor, CNC punching or powder-coat line running, frames in progress. Calm, ordered, well lit; headline space in the left third.">
+  <rect width="1600" height="686" fill="#efefed"/>
+  <path d="M0 0L1600 686M1600 0L0 686" stroke="#c9c9c5" stroke-width="2"/>
+  <rect x="1" y="1" width="1598" height="684" fill="none" stroke="#c9c9c5" stroke-width="2"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" text-anchor="middle" fill="#6b6b66">
+    <rect x="192" y="216.8" width="1216" height="247" fill="#efefed" opacity="0.92"/>
+    <text x="800" y="268" font-size="22" letter-spacing="0.12em">PLACEHOLDER IMAGE · 21:9 · HERO</text>
+    <text x="800" y="328.2" font-size="32">S1: Wide shot of the Berkshire factory floor, CNC punching or</text>
+    <text x="800" y="371.2" font-size="32">powder-coat line running, frames in progress. Calm, ordered,</text>
+    <text x="800" y="414.2" font-size="32">well lit; headline space in the left third.</text>
+  </g>
+</svg>
